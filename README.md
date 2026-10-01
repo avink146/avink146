@@ -108,3 +108,39 @@ A computer vision project designed to detect objects in **low-light and dark env
 👁️ Computer Vision
 🌐 Web Development
 ⚛️ JavaScript & React
+---
+
+## 🎯 My Goals
+
+- 🚀 Build more real-world AI/ML projects
+- 🧠 Improve DSA & problem-solving skills
+- 👁️ Explore advanced Computer Vision
+- 🌐 Build useful web applications
+- 💻 Contribute to Open Source
+- 📚 Keep learning and improving every day
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/avink146">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/avink-sharma-400300391">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building, Learning & Improving — One Project at a Time. 🚀
+
+<img src="https://komarev.com/ghpvc/?username=avink146&label=Profile%20Views&color=6C63FF&style=flat"/>
+
+</div>
