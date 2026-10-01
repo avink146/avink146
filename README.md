@@ -5,7 +5,7 @@
 ### 🤖 AI/ML Student | 🐍 Python Developer | 👁️ Computer Vision Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI%2FML+Student+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Building+Real-World+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI%2FML+Student+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Building+Real-World+Projects+%F0%9F%9A%80" />
 </p>
 
 </div>
@@ -18,11 +18,11 @@
 
 💻 I enjoy building practical projects and learning how technology can solve real-world problems.
 
-🔭 Currently working on **Machine Learning & Computer Vision projects**
+🔭 Currently working on **Machine Learning & Computer Vision projects**.
 
-🌱 Currently learning **Python, DSA, Machine Learning & Web Development**
+🌱 Currently learning **Python, DSA, Machine Learning & Web Development**.
 
-💡 Interested in **AI, Computer Vision, Deep Learning and Software Development**
+💡 Interested in **AI, Computer Vision, Deep Learning and Software Development**.
 
 ---
 
@@ -39,7 +39,7 @@
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -64,7 +64,7 @@
 
 A computer vision project designed to detect objects in **low-light and dark environments** using a YOLOv8-based object detection model fine-tuned on the **ExDark dataset**.
 
-**Key Features:**
+### Key Features
 
 - 🌑 Low-light object detection
 - 🤖 YOLOv8 fine-tuned model
@@ -101,23 +101,23 @@ A computer vision project designed to detect objects in **low-light and dark env
 
 ## 🎯 Currently Learning
 
-```text
-🐍 Python
-🧠 Data Structures & Algorithms
-🤖 Machine Learning
-👁️ Computer Vision
-🌐 Web Development
-⚛️ JavaScript & React
+- 🐍 Python
+- 🧠 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- 🌐 Web Development
+- ⚛️ JavaScript & React
+
 ---
 
-## 🎯 My Goals
+## 🚀 My Goals
 
-- 🚀 Build more real-world AI/ML projects
-- 🧠 Improve DSA & problem-solving skills
-- 👁️ Explore advanced Computer Vision
-- 🌐 Build useful web applications
-- 💻 Contribute to Open Source
-- 📚 Keep learning and improving every day
+- Build more real-world AI/ML projects
+- Improve DSA and problem-solving skills
+- Explore advanced Computer Vision
+- Build useful web applications
+- Contribute to Open Source
+- Keep learning and improving every day
 
 ---
 
